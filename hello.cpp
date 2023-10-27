@@ -1,8 +1,9 @@
 #include <iostream>
-using namespace std;
+
 
 int main()
 {
+	#теперь тут другое
 	string name;
 	cin>>name 
 	cout<<"Hello world" + name;
